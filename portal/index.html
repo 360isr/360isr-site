@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="en-GB">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Client Portal — 360iSR</title>
+<meta name="description" content="360iSR client portal login. Access is by invitation only. Contact ewen@360isr.com to request portal access." />
+<meta name="robots" content="noindex,nofollow" />
+<meta name="theme-color" content="#0A0F14" />
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet" />
+<link rel="stylesheet" href="../assets/style.css" />
+</head>
+<body class="portal-bg">
+<div class="portal-login-wrap">
+  <div class="portal-card">
+    <div class="logo-row">
+      <a class="brand" href="../index.html" style="color: #E6ECF1;">
+        <svg class="brand-mark" viewBox="0 0 32 32" fill="none" aria-hidden="true">
+  <circle cx="16" cy="16" r="13" stroke="currentColor" stroke-width="1.1"/>
+  <g stroke="currentColor" stroke-width="1">
+    <line x1="16" y1="2.4" x2="16" y2="5.2"/>
+    <line x1="16" y1="26.8" x2="16" y2="29.6"/>
+    <line x1="2.4" y1="16" x2="5.2" y2="16"/>
+    <line x1="26.8" y1="16" x2="29.6" y2="16"/>
+  </g>
+  <g stroke="currentColor" stroke-width="0.6" opacity="0.5">
+    <line x1="6.2" y1="6.2" x2="7.8" y2="7.8"/>
+    <line x1="25.8" y1="6.2" x2="24.2" y2="7.8"/>
+    <line x1="6.2" y1="25.8" x2="7.8" y2="24.2"/>
+    <line x1="25.8" y1="25.8" x2="24.2" y2="24.2"/>
+  </g>
+  <circle cx="16" cy="16" r="7" stroke="currentColor" stroke-width="0.7" opacity="0.55"/>
+  <path d="M16 16 L24.6 9.2" stroke="#D9A441" stroke-width="1.4" stroke-linecap="square"/>
+  <circle cx="16" cy="16" r="1.6" fill="#D9A441"/>
+</svg>
+        <span class="brand-word">360<em>i</em>SR</span>
+      </a>
+    </div>
+    <h1>Client portal &middot; sign in</h1>
+    <p class="sub">Enter your work email and we will send you a one-use sign-in link. Sessions expire after 60 minutes of inactivity.</p>
+    <form method="get" action="dashboard/generic/index.html" novalidate>
+      <label for="p-email">Work email</label>
+      <input id="p-email" name="email" type="email" autocomplete="email" placeholder="name@organisation.gov" required />
+      <button type="submit" class="btn btn-primary">Send me a sign-in link
+        <svg class="arr" viewBox="0 0 16 16" fill="none" aria-hidden="true"><path d="M3 8h10M9 4l4 4-4 4" stroke="currentColor" stroke-width="1.5" stroke-linecap="square"/></svg>
+      </button>
+    </form>
+    <p class="note" style="margin-top: 10px; font-size: 12px;">Once Cloudflare Access is live, your sign-in identity will route you to the correct engagement dashboard automatically.</p>
+    <p class="note">Access is by invitation only. Contact <a href="mailto:ewen@360isr.com" style="color: var(--accent);">ewen@360isr.com</a> to request portal access. Sign-in uses a magic-link pattern; no passwords are stored. The portal is operated under UNCLASSIFIED // TRAINING USE ONLY classification.</p>
+  </div>
+</div>
+</body>
+</html>
