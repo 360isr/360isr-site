@@ -15,8 +15,27 @@
   <url><loc>https://360isr.com/clients/</loc><changefreq>weekly</changefreq></url>
   <url><loc>https://360isr.com/insights/</loc><changefreq>weekly</changefreq></url>
   <url><loc>https://360isr.com/contact/</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://360isr.com/portal/dashboard/mindef-foundation/</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://360isr.com/portal/dashboard/mindef-practitioner/</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://360isr.com/portal/dashboard/nato-operations/</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://360isr.com/portal/dashboard/generic/</loc><changefreq>weekly</changefreq></url>
+  <url><loc>https://360isr.com/portal/</loc><changefreq>weekly</changefreq></url>
+  <url><loc>https://360isr.com/portal/clients/mindef/</loc><changefreq>weekly</changefreq></url>
+  <url><loc>https://360isr.com/portal/clients/mindef/courses/foundation/</loc><changefreq>weekly</changefreq></url>
+  <url><loc>https://360isr.com/portal/clients/mindef/courses/practitioner/</loc><changefreq>weekly</changefreq></url>
+  <url><loc>https://360isr.com/portal/clients/mindef/courses/advanced/</loc><changefreq>weekly</changefreq></url>
+  <url><loc>https://360isr.com/portal/clients/mindef/references/</loc><changefreq>weekly</changefreq></url>
+  <url><loc>https://360isr.com/portal/clients/mindef/bibliography/</loc><changefreq>weekly</changefreq></url>
+  <url><loc>https://360isr.com/portal/clients/mindef/calendar/</loc><changefreq>weekly</changefreq></url>
+  <url><loc>https://360isr.com/portal/clients/nato/</loc><changefreq>weekly</changefreq></url>
+  <url><loc>https://360isr.com/portal/clients/nato/references/</loc><changefreq>weekly</changefreq></url>
+  <url><loc>https://360isr.com/portal/clients/nato/bibliography/</loc><changefreq>weekly</changefreq></url>
+  <url><loc>https://360isr.com/portal/clients/nato/calendar/</loc><changefreq>weekly</changefreq></url>
+  <url><loc>https://360isr.com/portal/clients/naf/</loc><changefreq>weekly</changefreq></url>
+  <url><loc>https://360isr.com/portal/clients/naf/references/</loc><changefreq>weekly</changefreq></url>
+  <url><loc>https://360isr.com/portal/clients/naf/bibliography/</loc><changefreq>weekly</changefreq></url>
+  <url><loc>https://360isr.com/portal/clients/naf/calendar/</loc><changefreq>weekly</changefreq></url>
+  <url><loc>https://360isr.com/portal/clients/ksa/</loc><changefreq>weekly</changefreq></url>
+  <url><loc>https://360isr.com/portal/clients/ksa/references/</loc><changefreq>weekly</changefreq></url>
+  <url><loc>https://360isr.com/portal/clients/ksa/bibliography/</loc><changefreq>weekly</changefreq></url>
+  <url><loc>https://360isr.com/portal/clients/ksa/calendar/</loc><changefreq>weekly</changefreq></url>
+  <url><loc>https://360isr.com/portal/clients/generic/</loc><changefreq>weekly</changefreq></url>
+  <url><loc>https://360isr.com/portal/clients/generic/references/</loc><changefreq>weekly</changefreq></url>
+  <url><loc>https://360isr.com/portal/clients/generic/bibliography/</loc><changefreq>weekly</changefreq></url>
 </urlset>
